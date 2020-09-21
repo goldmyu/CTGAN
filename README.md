@@ -14,7 +14,7 @@ Using CTGAN implmention - a GAN-based tabular data synthesizer, on the cert Insi
 }
 ```
 
-- * Glasser, Joshua, and Brian Lindauer.* **Bridging the gap: A pragmatic approach to generating insider threat data**. 2013 IEEE Security and Privacy Workshops.
+- *Glasser, Joshua, and Brian Lindauer.* **Bridging the gap: A pragmatic approach to generating insider threat data**. 2013 IEEE Security and Privacy Workshops.
 
 ```LaTeX
 @inproceedings{glasser2013bridging,
