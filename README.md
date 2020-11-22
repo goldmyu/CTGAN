@@ -1,7 +1,7 @@
 # CTGAN
-Using CTGAN implmention - a GAN-based tabular data synthesizer, on the cert Insider theart data-set (r4.1) for data augmentiotn 
+Using CTGAN implementation - a GAN-based tabular data synthesizer, on the cert Insider threat data-set (r4.1) for data augmentation.
 
-# Refernce
+# Reference
 
 - *Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, Kalyan Veeramachaneni.* **Modeling Tabular data using Conditional GAN**. NeurIPS, 2019.
 
